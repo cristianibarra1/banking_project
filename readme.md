@@ -47,7 +47,7 @@ This would help all of us on understanding how and why our clients our staying o
 
 # Business Goals:
 
-`My goal is to find key driver for  client subscribedion`
+`My goal is to find key driver for  client subscribers`
 
 There has been a revenue decline in a Portuguese Bank and they would like to know what actions to take. After investigation, they found that the root cause was that their customers are not investing enough for long term deposits. So the bank would like to identify existing customers that have higher chance to subscribe for a long term deposit and focus marketing efforts on such customers.
 
@@ -250,6 +250,8 @@ banking data set was collected from kaggle(https://www.kaggle.com/code/rashmiran
 • Wrangle.py
 
 • finalnotebook.pynd
+
+• banking.csv
 
 2) After downloading files make sure all files are in the same folder or location 
 
