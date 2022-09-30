@@ -243,7 +243,7 @@ y	|binary|	has the client subscribed a term deposit? ('yes','no')
 
 
 # Deliverables/Steps to reproduce finalnotebook:
-banking data set was collected from kaggle(https://www.kaggle.com/code/rashmiranu/banking-dataset-eda-and-binary-classification/notebook).Using this data to find what effect our clients
+banking data set was collected from kaggle(https://www.kaggle.com/code/rashmiranu/banking-dataset-eda-and-binary-classification/notebook) .Using this data to find what effect our clients
 
 1)Download the following files 
 
